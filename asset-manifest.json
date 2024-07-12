@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-management-client/static/css/main.b6ef8f9d.css",
+    "main.js": "/project-management-client/static/js/main.ca0c43c8.js",
+    "static/js/453.8e28def9.chunk.js": "/project-management-client/static/js/453.8e28def9.chunk.js",
+    "index.html": "/project-management-client/index.html",
+    "main.b6ef8f9d.css.map": "/project-management-client/static/css/main.b6ef8f9d.css.map",
+    "main.ca0c43c8.js.map": "/project-management-client/static/js/main.ca0c43c8.js.map",
+    "453.8e28def9.chunk.js.map": "/project-management-client/static/js/453.8e28def9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6ef8f9d.css",
+    "static/js/main.ca0c43c8.js"
+  ]
+}
